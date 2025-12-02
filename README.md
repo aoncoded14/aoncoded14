@@ -11,6 +11,7 @@ Hi there! 👋<br><br>I'm Daniel Adanyih, civile Engineer by day developer by ni
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoncoded14&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aoncoded14&theme=github-dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
